@@ -13,8 +13,8 @@ A classic Pacman game built in Java/Swing, featuring exciting gameplay, custom l
 ## How to Play
 - Use arrow keys to navigate Pacman
 - Collect all dots to clear the level
-- Avoid ghosts or lose a life
-- Eat power pellets to turn the tables and eat the ghosts
+- Avoid ghosts or loose a life
+- Eat power pellets to get various upgrades and eat the ghosts
 
 ## Built With
 - Java Standard Libraries and Swing
